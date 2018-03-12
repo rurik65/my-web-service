@@ -1,8 +1,0 @@
-[user]
-	name = rurik65
-	email = rurik65@gmail.com
-[core]
-	autocrlf = true
-	safecrlf = true
-[gui]
-	recentrepo = C:/Users/rurik/git
